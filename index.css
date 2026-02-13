@@ -53,6 +53,28 @@ header {
 }
 
 .icon {
+    margin-right: 5px;
     width: 25px;
     height: 25px;
+}
+
+.icon:hover {
+    opacity: 0.7;
+}
+
+.icon-container {
+    margin-top: 15px;
+}
+
+.comment-section {
+    margin-left: 10px;
+}
+
+.comment {
+    margin-top: 0;
+}
+
+.likes {
+    margin-top: 5px;
+    margin-bottom: 8px;
 }
