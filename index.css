@@ -46,3 +46,13 @@ header {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+.post-img {
+    width: 100%;
+    height: 500px;
+}
+
+.icon {
+    width: 25px;
+    height: 25px;
+}
